@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	float notas[5] = {7, 8, 9.5, 9.9, 5.2};
-	printf("Exibindo os Valores do Vetores do Vetor \n\n");
+	printf("Exibindo os Valores dos Vetores do Vetor \n\n");
 	printf("notas[0] = %.1f\n", notas[0]);
 	printf("notas[1] = %.1f\n", notas[1]);
 	printf("notas[2] = %.1f\n", notas[2]);
